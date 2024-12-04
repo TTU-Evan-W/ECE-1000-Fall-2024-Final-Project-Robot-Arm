@@ -19,3 +19,8 @@ The first iteration of the project focused on setting up the hardware systems. A
 
 ## Link To Project
 * https://github.com/TTU-Evan-W/ECE-1000-Fall-2024-Final-Project-Robot-Arm/
+
+## Links
+* [Robotic Arm Model used](https://www.thingiverse.com/thing:34829)
+* [DIYables-MicroPython-Joystick](https://pypi.org/project/DIYables-MicroPython-Joystick/)
+* [micropython-servo](https://pypi.org/project/micropython-servo/)
